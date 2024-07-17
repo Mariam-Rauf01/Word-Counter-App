@@ -1,0 +1,37 @@
+{
+  "name": "mr95-word-counter-app",
+  "version": "1.0.0",
+  "description": "This is cli based word counter app.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word counter",
+    "text analysis",
+    "character count",
+    "word frequency",
+    "text utilities",
+    "word count tool",
+    "writing tool",
+    "text editor",
+    "word analysis",
+    "word counting",
+    "word counter app",
+    "writing assistant",
+    "text tool",
+    "word frequency analyzer"
+  ],
+  "author": "Mariam Rauf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  }
+}
